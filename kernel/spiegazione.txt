@@ -1,0 +1,1 @@
+Dentro questa cartella verranno riportati tutti i progressi compiuti verso la creazione di un kernel (scritto in C)
